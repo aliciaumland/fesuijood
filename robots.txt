@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://noodaiwash.thrivebradford.org.uk/sitemap.xml
